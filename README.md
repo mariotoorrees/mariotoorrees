@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mario 👋
 
-<!--
-**mariotoorrees/mariotoorrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently developing a project on my own.  
+I’ve always enjoyed creating projects as a hobby, and now I’m taking one seriously: **integrating one of the most powerful tools today — AI**.  
 
-Here are some ideas to get you started:
+I have a wide range of interests, and who knows what the next one will be!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects and areas of expertise:
+
+## Areas of Expertise
+- 🤖 **AI & Machine Learning** – building intelligent applications and experimenting with modern AI tools  
+- 📱 **App Development** – React Native, React DOM, front-end and back-end development  
+- 🐍 **Python Programming** – scripting, automation, data analysis, and AI projects  
+- 📈 **Stock Market & Trading** – analyzing markets, creating strategies, and learning financial systems  
+- 🌐 **Tech Exploration** – discovering new technologies, experimenting with apps, and integrating interests like nutrition 🥗 and sports 🏋️  
+- 🛠 **Software Experimentation** – creating small projects to learn and test new technologies
