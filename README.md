@@ -1,4 +1,4 @@
-# Hi, I'm Mario 👋
+# Hey what's up
 
 I’m currently developing a project on my own.  
 I’ve always enjoyed creating projects as a hobby, and now I’m taking one seriously: **integrating one of the most powerful tools today — AI**.  
