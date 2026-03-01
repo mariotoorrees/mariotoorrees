@@ -26,7 +26,7 @@ AI innovation, intelligent agents, orchestration, and memory systems.
 
 ## 📱 **APP DEVELOPMENT**
 
-React Native, React DOM, and full-stack web and mobile development.
+JavaScript, TypeScript, Node.js, React Native, React DOM, full-stack web and mobile development.
 
 ## 🐍 **PYTHON PROGRAMMING**
 
