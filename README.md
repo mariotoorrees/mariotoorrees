@@ -4,40 +4,31 @@
 
 # Hey, I'm glad you are here.  
 
-I’m currently working on a project that will be launched very soon, focused on **AI integration in health and professional nutrition guidance**.  
-What started as a hobby has grown into a real commitment to building impactful and meaningful technology.
+I’m currently building a product focused on **AI integration in health and professional nutrition guidance**, designed to deliver real-world impact and scalable solutions.  
+What started as a hobby has evolved into a long-term commitment to creating meaningful and practical technology.
+
+**<sub>I’m driven to build technology that is genuinely useful. I value efficiency, innovation, strong structure, and consistent hard work in everything I create.</sub>**
 
 ---
-I’m driven to build technology that is genuinely useful. I value efficiency, innovation, strong structure, and consistent hard work in everything I create.
----
 
-## 🚀 Current Focus  
+## What I’m Building  
 - Developing a full-stack AI application from concept to launch  
-- Designing and coding the AI systems, backend infrastructure, and scalable servers  
-- Building intuitive front-end and mobile interfaces with strong UX/UI principles  
-- Managing product structure, organization, and deployment  
-- Working on marketing, positioning, and real-world product strategy
+- Designing and implementing AI systems, backend infrastructure, and scalable servers  
+- Creating intuitive front-end and mobile interfaces with strong UX/UI principles  
+- Structuring products for long-term scalability and maintainability  
+- Working on positioning, marketing, and real-world product strategy  
+
 ---
 
-🤖 AI & Machine Learning
+## **AI & MACHINE LEARNING**
 
-AI innovation, intelligent agents, management and memory systems.
+AI innovation, intelligent agents, orchestration, and memory systems.
 
-📱 App Development
+## **APP DEVELOPMENT**
 
-React Native, React DOM, full-stack web and mobile development.
+React Native, React DOM, and full-stack web and mobile development.
 
-🐍 Python Programming
+## **PYTHON PROGRAMMING**
 
-Automation, scripting, data workflows, and AI integration.
-
-📈 Stock Market & Trading
-
-Market analysis, strategy design, and financial systems.
-
-🌱 Lifestyle & Performance
-
-Nutrition, sports, and health optimization.
-
-
+Automation, scripting, data workflows, backend systems, and AI integration.
 
