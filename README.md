@@ -1,18 +1,50 @@
-# Hey what's up
+<p align="center">
+  <img src="./Banner.gif" />
+</p>
 
-![Banner](./Banner.gif)
+# Hey, I'm Mario 👋  
 
-I’m currently developing a project on my own.  
-I’ve always enjoyed creating projects as a hobby, and now I’m taking one seriously: **integrating one of the most powerful tools today — AI**.  
+I’m currently building a serious project focused on **AI integration**.  
+What started as a hobby has turned into a real commitment to creating impactful technology.
 
-I have a wide range of interests, and who knows what the next one will be!
+I enjoy exploring different areas of tech, learning fast, and turning ideas into real products.
 
-My projects and areas of expertise:
+---
 
-## Areas of Expertise
-- 🤖 **AI & Machine Learning** – building intelligent applications and experimenting with modern AI tools  
-- 📱 **App Development** – React Native, React DOM, front-end and back-end development  
-- 🐍 **Python Programming** – scripting, automation, data analysis, and AI projects  
-- 📈 **Stock Market & Trading** – analyzing markets, creating strategies, and learning financial systems  
-- 🌐 **Tech Exploration** – discovering new technologies, experimenting with apps, and integrating interests like nutrition 🥗 and sports 🏋️  
-- 🛠 **Software Experimentation** – creating small projects to learn and test new technologies
+## 🚀 Current Focus  
+- Building AI-powered applications  
+- Strengthening full-stack and mobile development  
+- Improving problem-solving and system design  
+- Learning how to turn projects into real-world products  
+
+---
+
+## 🧠 Areas of Expertise  
+
+### 🤖 AI & Machine Learning  
+Building intelligent applications and experimenting with modern AI tools.
+
+### 📱 App Development  
+React Native, React DOM, front-end and back-end development.
+
+### 🐍 Python Programming  
+Automation, scripting, data analysis, and AI workflows.
+
+### 📈 Stock Market & Trading  
+Market analysis, strategy development, and financial systems.
+
+### 🌐 Tech Exploration  
+Exploring new technologies and integrating interests like nutrition 🥗 and sports 🏋️ into software.
+
+### 🛠 Software Experimentation  
+Creating small projects to test new tools and concepts.
+
+---
+
+## 📌 Philosophy  
+I believe the best way to learn is by building.  
+Curiosity drives me, and every project is an opportunity to grow.
+
+---
+
+⭐ Always open to collaboration, new ideas, and challenging problems.
