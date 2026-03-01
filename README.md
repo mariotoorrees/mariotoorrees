@@ -1,5 +1,8 @@
 # Hey what's up
 
+![Banner](./grok-video-184a7624-fdef-4002-b218-6089285254db.gif
+)
+
 I’m currently developing a project on my own.  
 I’ve always enjoyed creating projects as a hobby, and now I’m taking one seriously: **integrating one of the most powerful tools today — AI**.  
 
