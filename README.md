@@ -1,6 +1,6 @@
 # Hey what's up
 
-![Banner](./grok-video-184a7624-fdef-4002-b218-6089285254db.gif
+![Banner](./Diseño sin título.gif
 )
 
 I’m currently developing a project on my own.  
