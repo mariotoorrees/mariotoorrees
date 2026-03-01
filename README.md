@@ -1,6 +1,6 @@
 # Hey what's up
 
-![Banner](./gif
+![Banner](./banner.gif
 )
 
 I’m currently developing a project on my own.  
