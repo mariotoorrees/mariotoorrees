@@ -28,9 +28,9 @@
   - Created AI marketing and content-automation systems for product research, campaign development, and video production
   - Developed an international expansion platform for an established Spanish artisan food manufacturer
 
-  ## Technical Focus
+   ## Technical Focus
 
-  **Languages:** Python, JavaScript, TypeScript, HTML, CSS, C#
+  **Languages:** TypeScript, JavaScript, Python, HTML, CSS, C#
 
   **Web & Mobile:** React, React Native, Expo, Next.js, Node.js, Express
 
